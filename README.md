@@ -1,5 +1,9 @@
 # Mult-Head Co-Attention
 
+### Description
+
+Code base corresponding to [extended abstract](https://arxiv.org/abs/1909.06442) accepted at the Machine Learning for Health (ML4H) at Neurips 2019 workshop.
+
 ### Run
 
 *Note:* Data can be provided on request or obtained directly from ppmi-info.org
